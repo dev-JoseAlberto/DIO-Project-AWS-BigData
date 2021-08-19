@@ -3,3 +3,6 @@
 
 # Ada Library Information
 *.ali
+
+#ignore the entire venv folder
+.venv
